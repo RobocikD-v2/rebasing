@@ -1,1 +1,3 @@
 Third file
+
+Line added in feature1.
